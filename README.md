@@ -21,6 +21,7 @@ Supports drawing geometric shapes, applying RGB filters, rotating selected areas
 
 ## Project Structure
 
+```
 /src
     image_utils.c
     main.c
@@ -28,6 +29,8 @@ Supports drawing geometric shapes, applying RGB filters, rotating selected areas
     image_utils.h
 Makefile
 README.md
+```
+
 
 ## 🛠 Building using a MakeFile:
 An executable file will appear after the build: ./png_editor
