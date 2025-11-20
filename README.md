@@ -5,13 +5,19 @@ Supports drawing geometric shapes, applying RGB filters, rotating selected areas
 
 # Features
 
-Draw square borders
-Adjustable border thickness
-Optional filling of square interior
-Draw diagonals inside square
-RGB component filter (red, green, blue)
-Rotate image area (90°, 180°, 270°)
-View PNG metadata (resolution, color type, bit depth)
+✔ Draw square borders
+
+✔ Adjustable border thickness
+
+✔ Optional filling of square interior
+
+✔ Draw diagonals inside square
+
+✔ RGB component filter (red, green, blue)
+
+✔ Rotate image area (90°, 180°, 270°)
+
+✔ View PNG metadata (resolution, color type, bit depth)
 
 ## 📁 Project Structure
 
