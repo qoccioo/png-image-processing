@@ -43,10 +43,16 @@ An executable file will appear after the build: ./png_editor
 ## 🚀 Usage Examples
 
 Rotate the area by 180°: 
+```
 png_editor --rotate --left_up 100.100 --right_down 300.300 --angle 180 -i in.png -o out.png
+```
 
 Filter by the green component:
+```
 png_editor --rgbfilter --component_name green --component_value 50 -i in.png -o green.png
+```
 
-Square without fill
+Square without fill:
+```
 png_editor --squared_lines --left_up 20.20 --side_size 120 --thickness 4 --color 0.0.255 -i in.png -o sq.png
+```
