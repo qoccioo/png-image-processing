@@ -19,7 +19,7 @@ Supports drawing geometric shapes, applying RGB filters, rotating selected areas
 
 ✔ View PNG metadata (resolution, color type, bit depth)
 
-## 📁 Project Structure
+## Project Structure
 
 /src
     image_utils.c
@@ -32,7 +32,7 @@ README.md
 ## 🛠 Building using a MakeFile:
 An executable file will appear after the build: ./png_editor
 
-## 📦 Dependencies
+## Dependencies
 - libpng
 - zlib
 - C compiler (gcc or clang)
