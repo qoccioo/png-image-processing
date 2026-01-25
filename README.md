@@ -1,4 +1,4 @@
-# 📌 PNG Image Processing Tool
+# PNG Image Processing Tool
 
 A command-line PNG editor written in C using libpng.
 Supports drawing geometric shapes, applying RGB filters, rotating selected areas, and viewing PNG metadata.
@@ -40,7 +40,7 @@ An executable file will appear after the build: ./png_editor
 - zlib
 - C compiler (gcc or clang)
 
-## 🚀 Usage Examples
+## Usage Examples
 
 Rotate the area by 180°: 
 ```
