@@ -32,7 +32,7 @@ README.md
 ```
 
 
-## 🛠 Building using a MakeFile:
+## Building using a MakeFile:
 An executable file will appear after the build: ./png_editor
 
 ## Dependencies
